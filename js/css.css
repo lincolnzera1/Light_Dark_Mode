@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+
+button{
+    font-size: 21pt;
+    width: 200px;
+    height: 65px;
+    border-radius: 30pt;
+}
+
+#nave{
+    text-align: center;
+    font-size: 40pt;
+    margin-top: 450px;
+}
