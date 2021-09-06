@@ -1,4 +1,3 @@
-var cont = 0;
 function dark(){
     var estado = document.getElementById("a1").innerHTML;
     if(estado == "Light Mode ON"){
